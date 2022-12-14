@@ -1,0 +1,3 @@
+from requests_tg.TV_requests import final_list, ID
+from requests_tg.Shop_requests import shop_picture_dobronom, shop_picture_evroopt,shop_picture_santa
+from requests_tg.Weather_requests import combined_text, weather_picture
